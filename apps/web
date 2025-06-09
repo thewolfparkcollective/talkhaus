@@ -1,2 +1,2 @@
-cd apps
+cd path/to/talkhaus/apps
 npx create-next-app@latest web --typescript
